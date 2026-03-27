@@ -1,6 +1,6 @@
 [project]
 name = "dj-apis-allauth"
-version = "2.0.0"
+version = "1.0.0"
 description = "Secure API Endpoints Authentication with Django REST Framework"
 authors = [
     {name = "Prince Clumson-Eklu",email = "sierralustra.com.senate390@passfwd.com"}
@@ -14,7 +14,7 @@ keywords = ["pypi", "poetry", "packaging"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
-    "Framework :: Django :: 5.2 and 6",
+    "Framework :: Django :: 5.2 a",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
